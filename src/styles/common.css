@@ -1,0 +1,26 @@
+.header{
+  padding:10px;
+  padding-left:30px;
+  background-color:lavenderblush;
+}
+
+.leftPanel{
+  background-color:lightblue;
+  width:20%;
+  height:500px;
+  float:left;
+}
+
+.centerPanel{
+  float:left;
+  background-color:lightgoldenrodyellow;
+  padding:10px;
+  width:78.5%;
+  height:500px;
+}
+
+.navigation{
+  padding:2px;
+  border-style:ridge;
+  border-color:greenyellow;
+}
